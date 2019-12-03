@@ -1,0 +1,37 @@
+div {
+    width: 600px; 
+    border: 1px solid red;
+}
+
+#main {
+    width: 600px; 
+    border: 2px solid red;
+}
+
+#header {
+    width: 90%;
+    height: 100px;
+    border: 1px solid red;
+    margin: 10px auto;
+}
+
+#slider {
+    width: 90%;
+    height: 100px;
+    border: 1px solid red;
+    margin: 10px auto;
+}
+
+#content {
+    width: 90%;
+    height: 100px;
+    border: 1px solid red;
+    margin: 10px auto;
+}
+
+#footer {
+    width: 90%;
+    height: 60px;
+    border: 1px solid red;
+    margin: 10px auto;
+}
