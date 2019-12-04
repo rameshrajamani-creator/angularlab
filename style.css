@@ -15,6 +15,20 @@ div {
     margin: 10px auto;
 }
 
+img {
+    width:300px;
+    height: 200px;
+}
+
+li {
+    display: inline;
+    background: grey;
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    border: 2px solid red;
+}
+
 #slider {
     width: 90%;
     height: 100px;
