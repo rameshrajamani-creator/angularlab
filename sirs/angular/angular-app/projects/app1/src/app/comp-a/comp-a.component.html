@@ -1,0 +1,18 @@
+<p>comp-a works!</p>
+
+<hr>
+<app-comp-a>
+
+</app-comp-a>
+<hr>
+
+<app-comp-b>
+
+</app-comp-b>
+
+<h3> Message : {{message }}</h3>
+<button (click) ="sendMessage()">Send Message To Comp B</button>
+<h3> Object : {{user.fname }}</h3>
+<button (click) ="sendObject()">Send Object To Comp B</button>
+<h3> Array : {{userDetails[0]}}</h3>
+<button (click) ="sendArray()">Send Array To Comp B</button>
