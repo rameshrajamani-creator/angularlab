@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "fullName": "Murali krishna",
+      "email": "WMcnamee@turpis.gov",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "fullName": "Ram Krishna",
+      "email": "SAhmad@nullam.org",
+      "password": "vbvv",
+      "id": 2
+    },
+    {
+      "fullName": "Murali Phuan",
+      "email": "PRossi@placerat.org",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "fullName": "Patricia VMK",
+      "email": "LBunker@sit.net",
+      "password": "1132",
+      "id": 4
+    },
+    {
+      "fullName": "Patricia VMK",
+      "email": "LBunker@sit.net",
+      "password": "1132",
+      "id": 5
+    }
+  ]
+}
